@@ -59,18 +59,18 @@ void readFile()
     }
 }
  */
-var users = new List<User>
+/* var users = new List<User>
 {
     new User { Id = 1, Name = "John Doe", Email = "john@example.com" },
     new User { Id = 2, Name = "Jane Smith", Email = "jane@example.com" }
-};
+}; */
 
-/* void SerializeUsersToJson(List<User> users) */
+/* /* void SerializeUsersToJson(List<User> users)
 {
     string jsonString = JsonSerializer.Serialize(users, new JsonSerializerOptions { WriteIndented = true });
     File.WriteAllText("users.json", jsonString);
     Console.WriteLine("User list serialized to JSON file successfully.");
-}
+} */
 
 
 /* User FindUserById(int id)
@@ -124,7 +124,7 @@ void isThereACat()
 {
     Console.WriteLine("Enter the file path (file1.txt, file2.txt, file3.txt) to check for a cat (or press Enter to use 'output.txt'):");
 
-    string filePath = Console.ReadLine();
+    string filePath = Console.ReadLine() ?? string.Empty;
 
     if (string.IsNullOrWhiteSpace(filePath))
     {
@@ -207,7 +207,6 @@ void deleteCats()
     Console.WriteLine("Rerun the commmand to try again");
 
 }
-
 
 
 randomCat();
