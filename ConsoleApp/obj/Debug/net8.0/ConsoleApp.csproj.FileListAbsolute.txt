@@ -1,0 +1,14 @@
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\Alan\TareasAlterna\TareaConsoleStream\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
